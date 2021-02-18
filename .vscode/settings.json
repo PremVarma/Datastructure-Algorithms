@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\path\\to\\jarfile\\commons-logging-1.1.1.jar",
+        "/Users/Prem/Downloads/json-simple-2.1.2.jar",
+        "/Users/Prem/Downloads/java-json.jar"
+    ]
+}
